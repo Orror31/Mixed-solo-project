@@ -1,0 +1,6 @@
+body{
+   background-color: rgb(241, 247, 245);
+}h1{
+    background-image: radial-gradient(rgb(105, 8, 102), rgb(104, 135, 245), rgb(154, 43, 139));
+    font-family:fantasy;
+}
